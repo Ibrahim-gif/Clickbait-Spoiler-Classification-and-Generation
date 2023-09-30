@@ -1,0 +1,6 @@
+transformers 
+wandb 
+datasets==2.10.0 
+evaluate 
+accelerate
+importlib-metadata
