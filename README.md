@@ -3,6 +3,8 @@ The project aims at generating short texts that satisfy the curiosity induced by
 
 Clickbait is a tactic used in online content, like headlines and social media posts, that aims to lure users into clicking or engaging with the material by using sensational or misleading information to create curiosity. While it can increase website traffic and ad revenue, it's often criticized for not delivering on its promises, which can harm trust and credibility in online sources. Finding the right balance between attracting engagement and delivering valuable content is crucial for content creators and platforms to maintain user satisfaction and authenticity in the digital realm.
 
+![Examples](Clickbait-examples.png)
+
 The first task contains classification and the second task is spoiler generation 
 In the first task, RoBERTa(Liu et al., 2019),DistillBert(Sanh et al., 2020) and DeBERT(He et al.,
 2021) models were utilized for classification to determine the type of spoiler (i.e., "phrase," "passage,"
